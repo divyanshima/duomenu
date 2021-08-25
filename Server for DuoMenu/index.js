@@ -7,7 +7,10 @@ app.listen(443,function() {
 })
 
 
-app.all('/script.js',async (req,res) => {
+app.all('*',async (req,res) => {
+  if (!req.query.token) {
+    return res.send('Get the link above and put it in the extension!')
+  }
   var f = await fetch("https://www.duolingo.com/2017-06-30/sessions", {
     "headers": {
       "accept": "application/json, text/plain, */*",
