@@ -45,7 +45,6 @@ Done! Now you can **start** the extension and try it out!
 
 
 - **Error: Server unavailable or invalid URL!**
-![img](https://i.imgur.com/N0Z0Rch.jpg)
 This error only happens if the server is down, or you didn't configure it correctly, or you entered the wrong url.
 It is recommended to check the tutorial above again.
 - **loading infinitely**
