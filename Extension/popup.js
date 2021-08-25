@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
         document.querySelector(".status").style.color = color;
         document.querySelector(".status").innerHTML = activated ? "Activated" : "Disabled"
         document.querySelector(".button").innerHTML = activated ? "Stop" : "Start"
-        document.querySelector(".input").value = serverurl
+        document.querySelector(".input").value = !serverurl ? 'Insert server url here!' : serverurl
     }
     chrome.storage.sync.get("server_url", function(items) {
       serverurl = items['server_url'];

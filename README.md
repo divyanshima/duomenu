@@ -10,12 +10,7 @@ With this extension you can skip all questions and gain ingots and xp quickly.
 ## 💡 How to install
 
 ### Extension:
-- Download the repository and extract.
-![img](https://i.imgur.com/3dGv7JU.jpg)
-- Open chrome, "manage extensions", activate developer mode and click load unpacked.
-![img](https://i.imgur.com/uKG5NUI.jpg)
-- Select the "Extension" folder you extracted.
-![img](https://i.imgur.com/O8RVr6s.jpg)
+![tutorial](https://i.imgur.com/85wbUzd.gif)
 
 Almost ready! Now, you need to host the server that will handle the hack.
 
@@ -24,11 +19,11 @@ Almost ready! Now, you need to host the server that will handle the hack.
 I will be using [repl.it](https://replit.com/), a free hosting platform.
 
 - create your account or login to the https://replit.com/.
-![img](https://i.imgur.com/5kDRYKM.jpg)
+![img](https://i.imgur.com/hcGn8Dx.jpg)
 - Click **new repl**, select the language as `Node.js` and click **create repl**.
 ![img](https://i.imgur.com/31yMEzt.jpg)
 - Click on the dots and select **send file**, upload the `index.js` and `package.js` from the `Server for DuoMenu` folder.
-![img](https://i.imgur.com/tCshopc.jpg)
+![img](https://i.imgur.com/25PIeW6.jpg)
 - After uploading the files, click **run**.
 ![img](https://i.imgur.com/x3e9eJ0.jpg)
 - Get the link above and put it in the extension textbox.
