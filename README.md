@@ -18,7 +18,7 @@ Almost ready! Now, you need to host the server that will handle the hack.
 
 I will be using [repl.it](https://replit.com/), a free hosting platform.
 
-[![Youtube Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+https://user-images.githubusercontent.com/81244634/130856664-be140c96-e187-46c5-873c-5be7cd99a5da.mp4
 
 Done! Now you can **start** the extension and try it out!
 ![img](https://i.imgur.com/Y2kOwjh.jpg)
