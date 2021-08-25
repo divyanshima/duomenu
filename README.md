@@ -39,3 +39,14 @@ I will be using [repl.it](https://replit.com/), a free hosting platform.
 
 Done! Now you can **start** the extension and try it out!
 ![img](https://i.imgur.com/Y2kOwjh.jpg)
+
+
+## 🐞 Possible errors
+
+
+- **Error: Server unavailable or invalid URL!**
+![img](https://i.imgur.com/N0Z0Rch.jpg)
+This error only happens if the server is down, or you didn't configure it correctly, or you entered the wrong url.
+It is recommended to check the tutorial above again.
+- **loading infinitely**
+Try to go back to the duolingo menu and start the lesson again, if it persists, check if the server is turned on.
