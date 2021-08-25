@@ -18,16 +18,7 @@ Almost ready! Now, you need to host the server that will handle the hack.
 
 I will be using [repl.it](https://replit.com/), a free hosting platform.
 
-- create your account or login to the https://replit.com/.
-![img](https://i.imgur.com/hcGn8Dx.jpg)
-- Click **new repl**, select the language as `Node.js` and click **create repl**.
-![img](https://i.imgur.com/31yMEzt.jpg)
-- Click on the dots and select **send file**, upload the `index.js` and `package.js` from the `Server for DuoMenu` folder.
-![img](https://i.imgur.com/25PIeW6.jpg)
-- After uploading the files, click **run**.
-![img](https://i.imgur.com/x3e9eJ0.jpg)
-- Get the link above and put it in the extension textbox.
-![img](https://i.imgur.com/ZFWyO3N.jpg)
+[![Youtube Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 Done! Now you can **start** the extension and try it out!
 ![img](https://i.imgur.com/Y2kOwjh.jpg)
