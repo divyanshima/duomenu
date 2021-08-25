@@ -1,0 +1,39 @@
+body{
+  min-height: 350px;
+  min-width: 400px;
+  text-align: center;
+  background: #e9e9ec;
+
+}
+#hero {
+  width:25px;
+}
+
+h1{
+  margin-bottom: 0;
+}
+a {
+  color:rgba(0, 0, 0, 0.782);
+}
+span {
+  font-size:16px;
+}
+a.button {
+  background:rgb(255, 126, 40);
+  color:black;
+  font-weight:700;
+  padding:10px 40px;
+  font-size:16px;
+  cursor:pointer;
+  user-select: none;
+}
+.info {
+  position: absolute;
+  bottom: 20px;
+  left: 0;
+  width:100%;
+  text-align:center;
+}
+.input {
+  width:90%;
+}

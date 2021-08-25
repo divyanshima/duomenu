@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "name": "DuoMenu - Hack For Duolingo!",
+  "version": "1.0.0",
+  "incognito": "split",
+  "description": "Complete courses and lessons and earn lots of XP with the DuoMenu.",
+  "background": {
+    "scripts": ["index.js"]
+  },
+  "content_scripts": [{
+    "matches": ["*://*.duolingo.com/*"],
+    "js": ["content.js"]
+  }],
+  "permissions": ["<all_urls>", "webRequest", "webRequestBlocking", "storage", "cookies", "activeTab", "tabs"],
+  "icons": {
+    "128":"128_128.png",
+    "48": "48_48.png",
+    "16": "16_16.png"
+  },
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": "48_48.png",
+    "default_title": "DuoMenu"
+  }
+}
